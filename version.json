@@ -4,7 +4,8 @@
   "update_url": "https://voidwell-studio.itch.io/koemane",
   "release_date": "2026-11-25",
   "changelog": [
-    "O jogo agora avisa no menu quando sai uma versão nova / The game now tells you on the menu when a new version is out",
-    "Versão exibida no canto do menu / Version shown in the menu corner"
+    "Aviso de novas versões no menu",
+    "New: update notice on the main menu",
+    "Versão no canto do menu / Version in the menu corner"
   ]
 }
