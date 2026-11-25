@@ -12,6 +12,7 @@ URL pública (GitHub Pages): https://sousaarthur.github.io/koemane-updates/versi
 | `minimum_version` | não | abaixo dela o jogo mostra "Atualização obrigatória" (não bloqueia) |
 | `release_date` | não | `AAAA-MM-DD` |
 | `changelog` | não | lista de textos (até 12, até 200 caracteres cada) |
+| `changelog_en` | não | a mesma lista em inglês (jogo em inglês; builds 1.1.1+) |
 
 **Ordem de um lançamento:** subir os builds no itch.io primeiro e só depois atualizar este arquivo.
 Detalhes: `docs/versionamento.md` no repositório do jogo.

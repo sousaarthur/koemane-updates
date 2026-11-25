@@ -4,8 +4,11 @@
   "update_url": "https://voidwell-studio.itch.io/koemane",
   "release_date": "2026-11-25",
   "changelog": [
-    "Aviso de novas versões no menu",
-    "New: update notice on the main menu",
-    "Versão no canto do menu / Version in the menu corner"
+    "Aviso de novas versões no menu principal",
+    "Versão exibida no canto do menu"
+  ],
+  "changelog_en": [
+    "Update notice on the main menu",
+    "Version shown in the menu corner"
   ]
 }
